@@ -4,7 +4,8 @@ trabajando con lista,tuplas,conjuntos y diccionarios
 - Codigo
 - ![image](https://github.com/user-attachments/assets/cca170bb-fcab-46f6-98f7-ab53ce960aaf)
 - Resultado
-- ![image](https://github.com/user-attachments/assets/202b9042-4a67-4895-b89f-a862dadb1c92)
+- ![image](https://github.com/user-attachments/assets/fc228993-1823-40e3-9b61-b0c44c22421b)
+
 
 ## las Tuplas
 
